@@ -1,0 +1,282 @@
+{
+  "WPFTweaks": [
+    "WPFTweaksRestorePoint",
+    "WPFTweaksStorage",
+    "WPFTweaksIPv46",
+    "WPFTweaksDisableLMS1",
+    "WPFTweaksWifi",
+    "WPFTweaksHiber",
+    "WPFTweaksHome",
+    "WPFTweaksDVR",
+    "WPFTweaksDeleteTempFiles",
+    "WPFTweaksConsumerFeatures",
+    "WPFTweaksRemoveCopilot",
+    "WPFTweaksRemoveEdge",
+    "WPFTweaksRemoveOnedrive",
+    "WPFTweaksDisableWpbtExecution",
+    "WPFTweaksDisableBGapps",
+    "WPFTweaksEdgeDebloat",
+    "WPFTweaksLoc",
+    "WPFTweaksBlockAdobeNet",
+    "WPFTweaksRemoveHomeGallery",
+    "WPFTweaksDebloatAdobe",
+    "WPFTweaksPowershell7",
+    "WPFTweaksDiskCleanup",
+    "WPFTweaksPowershell7Tele",
+    "WPFTweaksEndTaskOnTaskbar",
+    "WPFTweaksUTC",
+    "WPFTweaksRecallOff",
+    "WPFTweaksTele",
+    "WPFTweaksRightClickMenu",
+    "WPFTweaksRazerBlock",
+    "WPFTweaksServices",
+    "WPFTweaksAH"
+  ],
+  "WPFFeature": [
+    "WPFFeatureDisableSearchSuggestions"
+  ],
+  "Install": [
+    {
+      "winget": "ElectronicArts.EADesktop",
+      "choco": "ea-app"
+    },
+    {
+      "winget": "OBSProject.OBSStudio",
+      "choco": "obs-studio"
+    },
+    {
+      "winget": "WinSCP.WinSCP",
+      "choco": "winscp"
+    },
+    {
+      "winget": "TGRMNSoftware.BulkRenameUtility",
+      "choco": "bulkrenameutility"
+    },
+    {
+      "winget": "yt-dlp.yt-dlp",
+      "choco": "yt-dlp"
+    },
+    {
+      "winget": "JanDeDobbeleer.OhMyPosh",
+      "choco": "oh-my-posh"
+    },
+    {
+      "winget": "ONLYOFFICE.DesktopEditors",
+      "choco": "onlyoffice"
+    },
+    {
+      "winget": "dotPDN.PaintDotNet",
+      "choco": "paint.net"
+    },
+    {
+      "winget": "CalcProgrammer1.OpenRGB",
+      "choco": "openrgb"
+    },
+    {
+      "winget": "Microsoft.WindowsTerminal",
+      "choco": "microsoft-windows-terminal"
+    },
+    {
+      "winget": "Zen-Team.Zen-Browser",
+      "choco": "na"
+    },
+    {
+      "winget": "Valve.Steam",
+      "choco": "steam-client"
+    },
+    {
+      "winget": "Python.Python.3.12",
+      "choco": "python"
+    },
+    {
+      "winget": "VideoLAN.VLC",
+      "choco": "vlc"
+    },
+    {
+      "winget": "VSCodium.VSCodium",
+      "choco": "vscodium"
+    },
+    {
+      "winget": "Google.Chrome",
+      "choco": "googlechrome"
+    },
+    {
+      "winget": "Flow-Launcher.Flow-Launcher",
+      "choco": "flow-launcher"
+    },
+    {
+      "winget": "qBittorrent.qBittorrent",
+      "choco": "qbittorrent"
+    },
+    {
+      "winget": "KDE.Krita",
+      "choco": "krita"
+    },
+    {
+      "winget": "Google.GoogleDrive",
+      "choco": "googledrive"
+    },
+    {
+      "winget": "7zip.7zip",
+      "choco": "7zip"
+    },
+    {
+      "winget": "AntibodySoftware.WizTree",
+      "choco": "wiztree"
+    },
+    {
+      "winget": "CherubicSoftware.SageThumbs",
+      "choco": "sagethumbs"
+    },
+    {
+      "winget": "xM4ddy.OFGB",
+      "choco": "ofgb"
+    },
+    {
+      "winget": "BlenderFoundation.Blender",
+      "choco": "blender"
+    },
+    {
+      "winget": "Rustlang.Rust.MSVC",
+      "choco": "rust"
+    },
+    {
+      "winget": "Git.Git",
+      "choco": "git"
+    },
+    {
+      "winget": "rcmaehl.MSEdgeRedirect",
+      "choco": "msedgeredirect"
+    },
+    {
+      "winget": "SumatraPDF.SumatraPDF",
+      "choco": "sumatrapdf"
+    },
+    {
+      "winget": "HulubuluSoftware.AdvancedRenamer",
+      "choco": "advanced-renamer"
+    },
+    {
+      "winget": "TheDocumentFoundation.LibreOffice",
+      "choco": "libreoffice-fresh"
+    },
+    {
+      "winget": "chrisant996.Clink",
+      "choco": "clink"
+    },
+    {
+      "winget": "GOG.Galaxy",
+      "choco": "goggalaxy"
+    },
+    {
+      "winget": "Discord.Discord",
+      "choco": "discord"
+    },
+    {
+      "winget": "Ventoy.Ventoy",
+      "choco": "ventoy"
+    },
+    {
+      "winget": "Mozilla.Firefox",
+      "choco": "firefox"
+    },
+    {
+      "winget": "voidtools.Everything",
+      "choco": "everything"
+    },
+    {
+      "winget": "Open-Shell.Open-Shell-Menu",
+      "choco": "open-shell"
+    },
+    {
+      "winget": "AgileBits.1Password",
+      "choco": "1password"
+    },
+    {
+      "winget": "MartiCliment.UniGetUI",
+      "choco": "wingetui"
+    },
+    {
+      "winget": "REALiX.HWiNFO",
+      "choco": "hwinfo"
+    },
+    {
+      "winget": "Bitwarden.Bitwarden",
+      "choco": "bitwarden"
+    },
+    {
+      "winget": "sharkdp.bat",
+      "choco": "bat"
+    },
+    {
+      "winget": "HeroicGamesLauncher.HeroicGamesLauncher",
+      "choco": "na"
+    },
+    {
+      "winget": "Vencord.Vesktop",
+      "choco": "na"
+    },
+    {
+      "winget": "eloston.ungoogled-chromium",
+      "choco": "ungoogled-chromium"
+    },
+    {
+      "winget": "GitHub.cli",
+      "choco": "git;gh"
+    },
+    {
+      "winget": "Neovim.Neovim",
+      "choco": "neovim"
+    }
+  ],
+  "WPFInstall": [
+    "WPFInstalleaapp",
+    "WPFInstallobs",
+    "WPFInstallwinscp",
+    "WPFInstallbulkrenameutility",
+    "WPFInstallytdlp",
+    "WPFInstallposh",
+    "WPFInstallonlyoffice",
+    "WPFInstallPaintdotnet",
+    "WPFInstallopenrgb",
+    "WPFInstallterminal",
+    "WPFInstallZenBrowser",
+    "WPFInstallsteam",
+    "WPFInstallpython3",
+    "WPFInstallvlc",
+    "WPFInstallvscodium",
+    "WPFInstallchrome",
+    "WPFInstallflow",
+    "WPFInstallqbittorrent",
+    "WPFInstallkrita",
+    "WPFInstallgoogledrive",
+    "WPFInstall7zip",
+    "WPFInstallwiztree",
+    "WPFInstallsagethumbs",
+    "WPFInstallOFGB",
+    "WPFInstallblender",
+    "WPFInstallrustlang",
+    "WPFInstallgit",
+    "WPFInstallmsedgeredirect",
+    "WPFInstallsumatra",
+    "WPFInstallAdvancedRenamer",
+    "WPFInstalllibreoffice",
+    "WPFInstallclink",
+    "WPFInstallgog",
+    "WPFInstalldiscord",
+    "WPFInstallventoy",
+    "WPFInstallfirefox",
+    "WPFInstallesearch",
+    "WPFInstallopenshell",
+    "WPFInstall1password",
+    "WPFInstallwingetui",
+    "WPFInstallhwinfo",
+    "WPFInstallbitwarden",
+    "WPFInstallbat",
+    "WPFInstallheroiclauncher",
+    "WPFInstallvesktop",
+    "WPFInstallungoogled",
+    "WPFInstallgithubcli",
+    "WPFInstallneovim"
+  ]
+}
